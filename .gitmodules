@@ -1,0 +1,3 @@
+[submodule "rnft-www"]
+	path = rnft-www
+	url = https://github.com/roguenft/rnft-www.git
